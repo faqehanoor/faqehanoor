@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @faqehanoor
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Typscript Web 3.0 Metaverse AI
-- 💞️ I’m looking to collaborate on Web Developing
-- 📫 How to reach me on LinkedIn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @faqehanoor  
+- 👀 I’m interested in FullStack Development  
+- 🌱 I’m currently learning **TypeScript**, **Web 3.0**, **Metaverse**, and **AI**  
+- 💞️ I’m looking to collaborate on FullStack Development projects  
+- 📫 How to reach me: https://www.linkedin.com/in/faqeha-noor-2b5a4a254/ 
+- 😄 Pronouns: faqeha
 
-<!---
-faqehanoor/faqehanoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
