@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faqeha Noor</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan 🚀</h3>
+<h3 align="center">A Passionate Agentic AI Developer from Pakistan 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/Quratulain-bilal">
@@ -32,23 +32,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Quratulain-bilal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quratulain-bilal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quratulain-bilal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
