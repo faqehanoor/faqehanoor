@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 <h1 align="center">Hi 👋, I'm Faqeha Noor</h1>
 <h3 align="center">A Passionate Agentic AI Developer from Pakistan 🚀</h3>
 
